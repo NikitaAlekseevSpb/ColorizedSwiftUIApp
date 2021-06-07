@@ -11,6 +11,7 @@
 		FA5F5C20266AB1D100D51CF3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA5F5C1F266AB1D100D51CF3 /* ContentView.swift */; };
 		FA5F5C22266AB1D200D51CF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA5F5C21266AB1D200D51CF3 /* Assets.xcassets */; };
 		FA5F5C25266AB1D200D51CF3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA5F5C24266AB1D200D51CF3 /* Preview Assets.xcassets */; };
+		FA8AD65D266D72A8004BB889 /* ColorSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA8AD65C266D72A8004BB889 /* ColorSlider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		FA5F5C21266AB1D200D51CF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA5F5C24266AB1D200D51CF3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FA5F5C26266AB1D200D51CF3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA8AD65C266D72A8004BB889 /* ColorSlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorSlider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				FA5F5C1D266AB1D100D51CF3 /* ColorizedSwiftUIAppApp.swift */,
 				FA5F5C1F266AB1D100D51CF3 /* ContentView.swift */,
+				FA8AD65C266D72A8004BB889 /* ColorSlider.swift */,
 				FA5F5C21266AB1D200D51CF3 /* Assets.xcassets */,
 				FA5F5C26266AB1D200D51CF3 /* Info.plist */,
 				FA5F5C23266AB1D200D51CF3 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA5F5C20266AB1D100D51CF3 /* ContentView.swift in Sources */,
+				FA8AD65D266D72A8004BB889 /* ColorSlider.swift in Sources */,
 				FA5F5C1E266AB1D100D51CF3 /* ColorizedSwiftUIAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
